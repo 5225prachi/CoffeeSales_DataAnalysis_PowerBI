@@ -20,11 +20,38 @@ The **Coffee Sales Data Analysis** project is a comprehensive data visualization
 
 ### 📸 Screenshots
 
-- ![Sales Dashboard](https://github.com/yourusername/coffee-sales-analysis/blob/main/screenshots/sales-dashboard.png)
-- ![Product Categories](https://github.com/yourusername/coffee-sales-analysis/blob/main/screenshots/product-categories.png)
-- ![Regional Sales](https://github.com/yourusername/coffee-sales-analysis/blob/main/screenshots/regional-sales.png)
-- ![DAX Calculations](https://github.com/yourusername/coffee-sales-analysis/blob/main/screenshots/dax-calculations.png)
+**Data Set**
+ ![Sales Dashboard](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/Sales.xlsx)
 
+**Total Sales Calculation**  
+ ![Sales](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/sales.png)
+
+ **Graphs**  
+1) Histogram
+    ![Histogram](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/Histogram.png)
+2) Scatter Graph
+    ![ScatterGraph](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/Scattergraph.png)
+3) Bar Chart
+    ![BarChart](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/barchart.png)
+4) Line Chart
+    ![BarChart](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/linechart.png)
+5) Pie Chart
+    ![PieChart](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/piechart.png)
+6) WaterFall
+    ![WaterFall](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/waterfall.png)
+
+ **Slicers**  
+1) Coffee Slicer
+    ![CoffeeSlicer](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/coffeeslicer.png)
+2) Date Slicer
+    ![DateSlicer](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/dateslicer.png)
+3) Payment Slicer
+    ![PaymentSlicer](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/paymentslicer.png)
+
+ **DAX Quesries** 
+     ![DAX](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/dax.png)
+
+   
 ### 🌍 Live Demo
 
 Since this project is built in Power BI, there is no live demo available. 
