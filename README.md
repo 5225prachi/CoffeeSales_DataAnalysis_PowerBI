@@ -27,17 +27,13 @@ The **Coffee Sales Data Analysis** project is a comprehensive data visualization
  ![Sales](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/sales.png)
 
  **Graphs**  
-1) Histogram
-    ![Histogram](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/Histogram.png)
-2) Scatter Graph
-    ![ScatterGraph](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/Scattergraph.png)
-3) Bar Chart
+1) Bar Chart
     ![BarChart](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/barchart.png)
-4) Line Chart
+2) Line Chart
     ![BarChart](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/linechart.png)
-5) Pie Chart
+3) Pie Chart
     ![PieChart](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/piechart.png)
-6) WaterFall
+4) WaterFall
     ![WaterFall](https://github.com/5225prachi/CoffeeSales_DataAnalysis_PowerBI/blob/main/waterfall.png)
 
  **Slicers**  
